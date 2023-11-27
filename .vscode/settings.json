@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
     "editor.inlineSuggest.showToolbar": "always"
 }
+=======
+  "editor.inlineSuggest.showToolbar": "onHover"
+}
+>>>>>>> 79bc184b2d2a39e101e3582e01d488c5f1949200
